@@ -44,15 +44,6 @@
     </item>
     
     <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://arrows3.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://arrows3.github.io/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
       <title>Mono-T (Fusion)</title>
       <link>https://arrows3.github.io/docs/mono-t-fusion/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -68,6 +59,33 @@
       
       <guid>https://arrows3.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Fusion 360</title>
+      <link>https://arrows3.github.io/docs/tutoriales-fusion/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://arrows3.github.io/docs/tutoriales-fusion/</guid>
+      <description>Contenido de mi post 1 con hugo</description>
+    </item>
+    
+    <item>
+      <title>Examen venecia</title>
+      <link>https://arrows3.github.io/docs/examen/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://arrows3.github.io/docs/examen/</guid>
+      <description>Contenido de mi post 1 con hugo</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://arrows3.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://arrows3.github.io/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
   </channel>
